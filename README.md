@@ -44,16 +44,16 @@ This tutorial outlines how to implement and use Remote Desktop by making a Virtu
 
   - For these purposes, we can leave Disks, Networking, Management, Monitoring, and Advanced.
   - Hit review and create
+
+    <img width="719" height="64" alt="image" src="https://github.com/user-attachments/assets/91ad5903-9fce-42d0-b18e-9c2582727b8d" />
+
+  - Wait for Validation to pass, may take few seconds
+  - Once validated hit Create on the bottom
+
+    <img width="323" height="54" alt="image" src="https://github.com/user-attachments/assets/83d2662a-08d8-4e1f-b97d-e00d96a40868" />
     
-<img width="719" height="64" alt="image" src="https://github.com/user-attachments/assets/91ad5903-9fce-42d0-b18e-9c2582727b8d" />
-    - Wait for Validation to pass, may take few seconds
-    - Once validated hit Create on the bottom
-      
-<img width="323" height="54" alt="image" src="https://github.com/user-attachments/assets/83d2662a-08d8-4e1f-b97d-e00d96a40868" />
-    
-    - Wait for deployment to finish, this can take a few minutes.
-    
-<img width="844" height="124" alt="image" src="https://github.com/user-attachments/assets/2e0a782e-9282-4bc0-b450-d8951904e2c8" />
+  - Wait for deployment to finish, this can take a few minutes.
+    <img width="844" height="124" alt="image" src="https://github.com/user-attachments/assets/2e0a782e-9282-4bc0-b450-d8951904e2c8" />
     
 
 
