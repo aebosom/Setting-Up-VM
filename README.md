@@ -36,10 +36,11 @@ This tutorial outlines how to implement and use Remote Desktop by making a Virtu
     - Image - Windows 10 Enterprise, version 22H2 - x64 Gen2 (free services eligible) - note that other images may be used depending on your needs and subscription
     - Size - Standard_D2s_v3 - 2 vcpus, 8 GiB memory (Price unavailable)
     - Username - Labuser
-    - Password - Password1
-    - Confirm Passowrd - Password1
+    - Password - Cyberlab123!
+    - Confirm Passowrd - Cyberlab123!
     - Licensing, Confirm by clicking on the box on the bottom left
       <img width="806" height="1014" alt="image" src="https://github.com/user-attachments/assets/6770de09-9226-4999-98fa-48298bfb14ba" />
-      <img width="816" height="967" alt="image" src="https://github.com/user-attachments/assets/b293b70c-e891-4b14-a6a8-05c1943615ce" />
+      <img width="841" height="877" alt="image" src="https://github.com/user-attachments/assets/4c00796c-92f5-49ab-b240-d9eabff141f9" />
+
 
 
