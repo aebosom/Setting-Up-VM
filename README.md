@@ -14,7 +14,7 @@ This tutorial outlines how to implement and use Remote Desktop by making a Virtu
 <h2>Operating Systems Used </h2>
 
 - Windows 11 Home
-- Windows (CHANGE LATER)
+- Windows 10 Enterprise, version 22H2 - x64 Gen2
 
 <h2>Deployment and Configuration Steps</h2>
 
